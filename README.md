@@ -3,7 +3,7 @@
 **Student:** E. Lohitha  
 **Register Number:** 192411103  
 **Repository folder:** `CSA09-192411103-Assignment3`  
-**Java used for local verification:** OpenJDK 21
+**Java used for local verification:** Java Platform Extension for Visual Studio Code (Oracle Corporation)
 
 ## Contents
 
